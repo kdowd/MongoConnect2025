@@ -34,9 +34,8 @@ namespace MongoConnect
             string? databaseUrl = Environment.GetEnvironmentVariable("DATABASE_URL");
             string? debug = Environment.GetEnvironmentVariable("DEBUG");
 
-            // use https://learn.microsoft.com/en-us/sysinternals/downloads/debugview
+            // Use null-coalescing operator to handle possible null values  
             Trace.WriteLine($"API Key: {apiKey ?? "Not Set"}");
-
             Trace.WriteLine($"Database URL: {databaseUrl ?? "Not Set"}");
             Trace.WriteLine($"Debug Mode: {debug ?? "Not Set"}");
         }

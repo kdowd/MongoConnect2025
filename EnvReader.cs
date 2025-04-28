@@ -10,8 +10,8 @@ class EnvReader
 {
     public static void Load(string filePath)
     {
-        //if (!File.Exists(filePath))
-        //    throw new FileNotFoundException($"The file '{filePath}' does not exist.");
+        if (!File.Exists(filePath))
+            throw new FileNotFoundException($"The file '{filePath}' does not exist.");
 
         foreach (var line in File.ReadAllLines(filePath))
         {
