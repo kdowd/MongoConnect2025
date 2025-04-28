@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\091275\\source\\repos\\MongoConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\envreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:envreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\models\\mongohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:models\\mongohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Users\\091275\\source\\repos\\MongoConnect\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-28T03:13:08.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Build.Tasks.Git.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-28T03:10:24.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnvReader.cs",
+              "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\EnvReader.cs",
+              "RelativeDocumentMoniker": "EnvReader.cs",
+              "ToolTip": "D:\\Users\\091275\\source\\repos\\MongoConnect\\EnvReader.cs",
+              "RelativeToolTip": "EnvReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T02:42:58.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "D:\\Users\\091275\\source\\repos\\MongoConnect\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANkSURBVDhPjVQ5bxNBFP5m17s2vh1sB8xhAuEIBISEwlEghCi40kQCAQ0VIEGBRAlCIvwBUAp6RIdo6RENpwQSEUQgJ4EklsFJfCRx1rveneXN2I5zofDJo5l58/ab7817zwwNHO/tVbpv3LsyOO8fsOxaW8P8H3AHzd\u002BTN78/uv22ms1wBT09OHCmb9/JuwOP9UhiwHVbZG5jLMcSO1P26xsTF1SfHgBjTO3JZtm5jkPPPJrnslGz/bk5E7zhrQj/hRjqEFthWzCLDeef3ZEfr8s/h6rq9f5\u002BxZ0o3mdgccO2kZuzJGFUV9G3M4ETW6IomQ7\u002BzFvweRScSsdwtmM9ApqKTMmAQrey0rQepE9SPXteCxHiOi7nRQh7VZze1oZLu5I4SaQ23dLm1dC7PS5thzdE4DTjNo1uDvtyMJVidcJVQIrhoWOPwnAoGYKmMrQHNKRDPmmjXwuuq4K5imNZ/yZsIj9fQ0fUh1TAi3R4HZEB1oK0lViTcKhQEcnDwWQQHREfsvTGczWncboSaxKOz5gYn63i1NYYtoV9GKZEmM6KJ1/AmoRztoOPv2dxLBVGmDI/OmOsWptN/JOwRlnNU6lUajbeZMuYpLcUZSIUi3ctm3bDcynYA5ey83b4q8rU3YWqiU\u002BkRjyRyGKQak0kwOIcEd0Dk\u002BYa7f2aIn0qpF4Wfm4MfHQw41/Pu5YpFKdkIi9yRcniMIhArKepuCs2kVO8RZPTmstkyW/E1ECLkEreqdL7lKeB0hRV/xSUMs1iNNfL7MJPDqNC7VenqYf8ZuRrMZ\u002BPD314F5ktFj31I1GvLrUph0JFTZNUzsgmoIiea4LsZM74k24X63/xzTM\u002BP3J2fHRsRyGXe0hhhIQPJ4\u002Bdm9px/uhBfBkeQzwWQrVqIxENYdYw8PzVe6hNUuoPulwSKv0X99pP71x7\u002BX14osyUVkMJBZ2pdnSlN2KdT0d3ejM2JWKIR4I40rUDAZ9XqFoBeYWuaywWDSyKAdS7KpEyvB8ahd\u002Br41PmJ7KTBfz6M4WJfEEqFVEsh1TkTW5hnRdvXfVzcwAuD9dPGPy6Rv8oLnQid1z5iKSKy1Atqk\u002BThsz0opBV8a1TmYFSKU/H0p17KOxdZBKxM9vhzOGcWbYj17ZTn2u0J3XE1QK1T1ELsCd/Aa\u002BYjz25pRGYAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-28T02:41:39.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MongoHelper.cs",
+              "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\Models\\MongoHelper.cs",
+              "RelativeDocumentMoniker": "Models\\MongoHelper.cs",
+              "ToolTip": "D:\\Users\\091275\\source\\repos\\MongoConnect\\Models\\MongoHelper.cs",
+              "RelativeToolTip": "Models\\MongoHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwCYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:15:23.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Users\\091275\\source\\repos\\MongoConnect\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:12:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\Users\\091275\\source\\repos\\MongoConnect\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T02:30:39.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Users\\091275\\source\\repos\\MongoConnect\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:19:12.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Users\\091275\\source\\repos\\MongoConnect\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T01:12:29.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+/bin/
+
+# Example themes
+/wp-content/themes/twenty*/
+/obj/
+
+
+# Log files
+*.log
+
+# htaccess
+/.env
+
