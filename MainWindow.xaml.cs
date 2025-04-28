@@ -34,31 +34,33 @@ namespace MongoConnect
             string? databaseUrl = Environment.GetEnvironmentVariable("DATABASE_URL");
             string? debug = Environment.GetEnvironmentVariable("DEBUG");
 
-            // Output the values  
-            Console.WriteLine($"API Key: {apiKey ?? "Not Set"}");
-            Console.WriteLine($"Database URL: {databaseUrl ?? "Not Set"}");
-            Console.WriteLine($"Debug Mode: {debug ?? "Not Set"}");
+            // use https://learn.microsoft.com/en-us/sysinternals/downloads/debugview
+            Trace.WriteLine($"API Key: {apiKey ?? "Not Set"}");
+
+            Trace.WriteLine($"Database URL: {databaseUrl ?? "Not Set"}");
+            Trace.WriteLine($"Debug Mode: {debug ?? "Not Set"}");
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
-            MongoHelper mongoHelper = new MongoHelper();
+            MongoHelper mongoHelper = new();
             mongoHelper.Connector_Click();
             MyDG.ItemsSource = mongoHelper.students;
 
 
             // for debug only
-            //List<Student> temp = mongoHelper.students;
-            //temp.ForEach(PrintStudents);
+            List<Student> temp = mongoHelper.students;
+            temp.ForEach(PrintStudents);
 
         }
 
         private void PrintStudents(Student s)
         {
-            Debug.WriteLine(s.FirstName);
-            Debug.WriteLine(s.LastName);
-            Debug.WriteLine(s.Email);
+
+            Trace.WriteLine(s.FirstName);
+            Trace.WriteLine(s.LastName);
+            Trace.WriteLine(s.Email);
 
         }
 

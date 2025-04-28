@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\Users\\091275\\source\\repos\\MongoConnect\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB4446A9-8188-47F1-BA97-9832D4AF03DE}|MongoConnect.csproj|d:\\users\\091275\\source\\repos\\mongoconnect\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,11 +45,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Microsoft.Build.Tasks.Git.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets",
@@ -108,15 +108,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Users\\091275\\source\\repos\\MongoConnect\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "D:\\Users\\091275\\source\\repos\\MongoConnect\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T01:12:29.252Z"
+              "WhenOpened": "2025-04-28T01:12:29.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
